@@ -5,6 +5,7 @@
     <link>http://neuralspike.ai/categories/</link>
     <description>Recent content in Categories on NeuralSpikeAI</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://neuralspike.ai/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="http://neuralspike.ai/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
