@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research | NeuralSpike</title>
+    <link>http://neuralspike.ai/tags/research/</link>
+      <atom:link href="http://neuralspike.ai/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Mon, 30 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://neuralspike.ai/images/logo_huf700a643091726e44c94ba0f92a50e6b_19280_300x300_fit_lanczos_3.png</url>
+      <title>Research</title>
+      <link>http://neuralspike.ai/tags/research/</link>
+    </image>
+    
+    <item>
+      <title>Plugin Networks (Research)</title>
+      <link>http://neuralspike.ai/project/plugin_net/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://neuralspike.ai/project/plugin_net/</guid>
+      <description>&lt;p&gt;We introduced the Plugin Networks, an innovation enhancing model flexibility. These auxiliary networks, attached to original models, enable the alteration of model behavior without the necessity of retraining the foundational structure. While our focus was predominantly on discriminative models, the versatile application also extends to generative models, showcasing its broad utility.
+We used a simialr idea in our Image Generation project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Patient monitoring - action recognition</title>
+      <link>http://neuralspike.ai/project/smarthome/</link>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://neuralspike.ai/project/smarthome/</guid>
+      <description>&lt;p&gt;An action recognition system tailored for monitoring senior individuals in nursing homes. The model was adept at observing the well-being of residents, especially those with dementia and Alzheimer&amp;rsquo;s disease, by proficiently detecting routine actions, such as breakfast preparation, ensuring consistent care and early anomaly detection.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

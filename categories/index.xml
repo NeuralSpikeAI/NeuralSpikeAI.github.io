@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | NeuralSpike</title>
+    <link>http://neuralspike.ai/categories/</link>
+      <atom:link href="http://neuralspike.ai/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright>
+    <image>
+      <url>http://neuralspike.ai/images/logo_huf700a643091726e44c94ba0f92a50e6b_19280_300x300_fit_lanczos_3.png</url>
+      <title>Categories</title>
+      <link>http://neuralspike.ai/categories/</link>
+    </image>
+    
+  </channel>
+</rss>

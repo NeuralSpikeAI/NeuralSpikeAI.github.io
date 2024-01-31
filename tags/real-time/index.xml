@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Real-time | NeuralSpike</title>
+    <link>http://neuralspike.ai/tags/real-time/</link>
+      <atom:link href="http://neuralspike.ai/tags/real-time/index.xml" rel="self" type="application/rss+xml" />
+    <description>Real-time</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://neuralspike.ai/images/logo_huf700a643091726e44c94ba0f92a50e6b_19280_300x300_fit_lanczos_3.png</url>
+      <title>Real-time</title>
+      <link>http://neuralspike.ai/tags/real-time/</link>
+    </image>
+    
+    <item>
+      <title>Realtime Semantic Segmentation</title>
+      <link>http://neuralspike.ai/project/semantic/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://neuralspike.ai/project/semantic/</guid>
+      <description>&lt;p&gt;We developed a real-time semantic segmentation models for identifying humans in video streams across web, Windows, and macOS. Designed a comprehensive library, abstracting complex tasks such as pre and post-processing and multithreading, allowing seamless client integration. This impactful project significantly enhanced the efficiency and ease of deploying advanced segmentation capabilities in diverse applications, without clients navigating the technical depths.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Semantic segmentation for autonomous vehicles</title>
+      <link>http://neuralspike.ai/project/robo_cart/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://neuralspike.ai/project/robo_cart/</guid>
+      <description>&lt;p&gt;We worked on an autonomous delivery robot project, focusing on real-time semantic segmentation for autonomous driving on edge devices. Our model adeptly handled a range of environmental challenges, including varying weather conditions and day-to-night transitions, ensuring robust and reliable robot navigation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Parcel recognition system in warehouses</title>
+      <link>http://neuralspike.ai/project/parcel/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://neuralspike.ai/project/parcel/</guid>
+      <description>&lt;p&gt;A parcel detection and tracking system, tailored for efficient parcel management in expansive warehouses. The project entailed training robust models and crafting an efficient library to ensure real-time functionality within high-resolution camera networks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Patient monitoring - action recognition</title>
+      <link>http://neuralspike.ai/project/smarthome/</link>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://neuralspike.ai/project/smarthome/</guid>
+      <description>&lt;p&gt;An action recognition system tailored for monitoring senior individuals in nursing homes. The model was adept at observing the well-being of residents, especially those with dementia and Alzheimer&amp;rsquo;s disease, by proficiently detecting routine actions, such as breakfast preparation, ensuring consistent care and early anomaly detection.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

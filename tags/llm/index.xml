@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LLM | NeuralSpike</title>
+    <link>http://neuralspike.ai/tags/llm/</link>
+      <atom:link href="http://neuralspike.ai/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    <description>LLM</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Wed, 29 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://neuralspike.ai/images/logo_huf700a643091726e44c94ba0f92a50e6b_19280_300x300_fit_lanczos_3.png</url>
+      <title>LLM</title>
+      <link>http://neuralspike.ai/tags/llm/</link>
+    </image>
+    
+    <item>
+      <title>Image generation with Large Langugage Models</title>
+      <link>http://neuralspike.ai/project/gen_ai/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://neuralspike.ai/project/gen_ai/</guid>
+      <description>&lt;p&gt;Developed a generative AI model capable of producing data from textual input, incorporating segmentation masks to eliminate the need for subsequent annotation. This innovation not only curtails costs but also ensures the generation of richer and more diverse training data for enhanced model performance.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
